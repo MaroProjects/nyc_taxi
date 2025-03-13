@@ -3,9 +3,9 @@
 ## Overview
 Projekt zawiera analizę danych dotyczących przejazdów taksówek w Nowym Jorku.
 W pliku `NYCtaxi.ipynb` znajduje się szczegółowy proces przygotowania, eksploracji i wizualizacji danych, a następnie rozwiązania 3 kluczowych problemów:
-# > Znalezienie optymalnego kierunku ruchu "wolnego" taksówkarza, tak aby maksymalizować szansę zdobycia pasażera
-# > Optymalna alokacja taksówkarzy, tak aby minimalizować czas oczekiwania pasażerów na przewóz
-# > Predykcja napiwku w zależności od parametrów przejazdu
+## Znalezienie optymalnego kierunku ruchu "wolnego" taksówkarza, tak aby maksymalizować szansę zdobycia pasażera
+## Optymalna alokacja taksówkarzy, tak aby minimalizować czas oczekiwania pasażerów na przewóz
+## Predykcja napiwku w zależności od parametrów przejazdu
 
 ## Features
 - **Czyszczenie i wstępne przetwarzanie danych:**  
@@ -32,8 +32,8 @@ W pliku `NYCtaxi.ipynb` znajduje się szczegółowy proces przygotowania, eksplo
 
 ## Requirements
 Aby uruchomić analizę w środowisku lokalnym potrzebne są następujące pliki:
-# > https://github.com/codeforgermany/click_that_hood/blob/main/public/data/new-york-city-boroughs.geojson
-# > https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2009-01.parquet
+# https://github.com/codeforgermany/click_that_hood/blob/main/public/data/new-york-city-boroughs.geojson
+# https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2009-01.parquet
 
 ![Opis alternatywny](.C:/Users/marco/OneDrive/Documents/Praca/optymalny_kierunek_ruchu.png "Optymalny kierunek ruchu taksówek")
 
