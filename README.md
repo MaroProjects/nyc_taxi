@@ -31,12 +31,15 @@ W pliku `NYCtaxi.ipynb` znajduje się szczegółowy proces przygotowania, eksplo
 
 - **Budowanie modeli:**  
   - Model Machinelearning, DeepLearning:
+
     <img src="https://github.com/user-attachments/assets/6c65908e-6224-4918-9386-eecf02fc484f" alt="modelDeepL" width="50%" style="display: block; margin-left: 0;"  />
 
   - Model optymalizacji gradientowej:
+
     <img src="https://github.com/user-attachments/assets/c94dae02-af28-4e33-bf08-dc60ef6e2ab1" alt="optymalny_kierunek_ruchu" width="50%" style="display: block; margin-left: 0;"  />
 
   - Model algorytmu zachłannego:
+
     <img src="https://github.com/user-attachments/assets/0f41924b-76c4-4fed-a768-fa4b2d2186bf" alt="mapa_rozlozenia_taxi" width="50%" style="display: block; margin-left: 0;" />
 
 
