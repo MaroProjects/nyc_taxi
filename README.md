@@ -3,9 +3,9 @@
 ## Overview
 Projekt zawiera analizę danych dotyczących przejazdów taksówek w Nowym Jorku.
 W pliku `NYCtaxi.ipynb` znajduje się szczegółowy proces przygotowania, eksploracji i wizualizacji danych, a następnie rozwiązania 3 kluczowych problemów:
-## Znalezienie optymalnego kierunku ruchu "wolnego" taksówkarza, tak aby maksymalizować szansę zdobycia pasażera
-## Optymalna alokacja taksówkarzy, tak aby minimalizować czas oczekiwania pasażerów na przewóz
-## Predykcja napiwku w zależności od parametrów przejazdu
+**Znalezienie optymalnego kierunku ruchu "wolnego" taksówkarza, tak aby maksymalizować szansę zdobycia pasażera**
+**Optymalna alokacja taksówkarzy, tak aby minimalizować czas oczekiwania pasażerów na przewóz**
+**Predykcja napiwku w zależności od parametrów przejazdu**
 
 ## Features
 - **Czyszczenie i wstępne przetwarzanie danych:**  
