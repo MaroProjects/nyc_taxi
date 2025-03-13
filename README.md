@@ -3,6 +3,7 @@
 ## Overview
 Projekt zawiera analizę danych dotyczących przejazdów taksówek w Nowym Jorku.
 W pliku `NYCtaxi.ipynb` znajduje się szczegółowy proces przygotowania, eksploracji i wizualizacji danych, a następnie rozwiązania 3 kluczowych problemów:
+
 **> Znalezienie optymalnego kierunku ruchu "wolnego" taksówkarza, tak aby maksymalizować szansę zdobycia pasażera**
 
 **> Optymalna alokacja taksówkarzy, tak aby minimalizować czas oczekiwania pasażerów na przewóz**
@@ -28,17 +29,24 @@ W pliku `NYCtaxi.ipynb` znajduje się szczegółowy proces przygotowania, eksplo
   - Wizualizacja na mapach lokalizacji rozpoczęcia i zakończenia kursów  
   - Identyfikacja tzw. „hotspotów” (obszarów o dużym natężeniu przejazdów)
 
-- **Wnioski statystyczne:**  
-  - Korelacje między zmiennymi (np. długość trasy a cena)  
-  - Porównanie różnych segmentów rynku (np. poszczególne dzielnice, pory roku)
+- **Budowanie modeli:**  
+  - Model Machinelearning, DeepLearning
+    ![modelDeepL](https://github.com/user-attachments/assets/6c65908e-6224-4918-9386-eecf02fc484f)
+  - Model optymalizacji gradientowej
+    ![optymalny_kierunek_ruchu](https://github.com/user-attachments/assets/c94dae02-af28-4e33-bf08-dc60ef6e2ab1)
+  - Model algorytmu zachłannego
+    ![mapa_rozlozenia_taxi](https://github.com/user-attachments/assets/0f41924b-76c4-4fed-a768-fa4b2d2186bf)
+
 
 ## Requirements
 Aby uruchomić analizę w środowisku lokalnym potrzebne są następujące pliki:
+
 > https://github.com/codeforgermany/click_that_hood/blob/main/public/data/new-york-city-boroughs.geojson
 
 > https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2009-01.parquet
 
-![Opis alternatywny](.C:/Users/marco/OneDrive/Documents/Praca/optymalny_kierunek_ruchu.png "Optymalny kierunek ruchu taksówek")
+
+
 
 
 
