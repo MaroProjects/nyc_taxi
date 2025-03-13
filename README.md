@@ -32,8 +32,9 @@ W pliku `NYCtaxi.ipynb` znajduje się szczegółowy proces przygotowania, eksplo
 
 ## Requirements
 Aby uruchomić analizę w środowisku lokalnym potrzebne są następujące pliki:
-https://github.com/codeforgermany/click_that_hood/blob/main/public/data/new-york-city-boroughs.geojson
-https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2009-01.parquet
+> https://github.com/codeforgermany/click_that_hood/blob/main/public/data/new-york-city-boroughs.geojson
+
+> https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2009-01.parquet
 
 ![Opis alternatywny](.C:/Users/marco/OneDrive/Documents/Praca/optymalny_kierunek_ruchu.png "Optymalny kierunek ruchu taksówek")
 
