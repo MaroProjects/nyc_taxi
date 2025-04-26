@@ -30,7 +30,7 @@ W pliku `NYCtaxi.ipynb` znajduje się szczegółowy proces przygotowania, eksplo
   - Identyfikacja tzw. „hotspotów” (obszarów o dużym natężeniu przejazdów)
 
 - **Budowanie modeli:**  
-  - Model Machinelearning, DeepLearning:
+  - Model Machine learning, DeepLearning:
 
     <img src="https://github.com/user-attachments/assets/6c65908e-6224-4918-9386-eecf02fc484f" alt="modelDeepL" width="50%" style="display: block; margin-left: 0;"  />
 
